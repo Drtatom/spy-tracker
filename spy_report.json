@@ -1,8 +1,8 @@
 {
     "ticker": "SPY",
-    "date": "2026-10-06",
+    "date": "2026-10-07",
     "time": "17:50",
-    "price": 779.09,
-    "moving_avg_30d": 765.01,
+    "price": 777.22,
+    "moving_avg_30d": 765.57,
     "status": "bullish"
 }
