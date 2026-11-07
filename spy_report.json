@@ -1,8 +1,8 @@
 {
     "ticker": "SPY",
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "time": "17:50",
-    "price": 737.26,
-    "moving_avg_30d": 765.75,
+    "price": 735.29,
+    "moving_avg_30d": 765.09,
     "status": "bearish"
 }
